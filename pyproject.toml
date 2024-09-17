@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "saathi"
 version = "0.1.0"
-description = "In Nepali, saathi means a friend. This application let's user to interact with a local llm via audio/or text input using ollama"
+description = "In Nepali, saathi means a friend. This application lets user to interact with a local llm via audio/or text input using ollama"
 authors = ["drimal <rimaldipak@gmail.com>"]
 readme = "README.md"
 
